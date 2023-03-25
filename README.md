@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 ###- 😄 Pronouns: he/him
 ###- ⚡ Fun fact: I prefer cold coffee ❄ ☕ 
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=dracula)
