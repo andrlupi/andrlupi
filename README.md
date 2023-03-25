@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm andrlupi
-  ####Things about me
+  #### Things about me
 
 - 🖖 I'm a physics student who loves to explore the mysteries of the universe
 - 🔭 I’m currently working on exploring my skills in scientific computing and lab IoT
