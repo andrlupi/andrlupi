@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm andrlupi
-  Thing's about me
+  Things about me
 
-- 🖖 I'm a physics student
-- 🔭 I’m currently working on exploring my skills in scientific computing
-- 🌱 I’m currently learning quantum computing, data science and AI
-- ⚡ Fun fact: I prefer cold coffee ❄ ☕ 
+- 🖖 I'm a physics student who loves to explore the mysteries of the universe
+- 🔭 I’m currently working on exploring my skills in scientific computing and lab IoT
+- 🌱 I’m currently learning how to use various tools and frameworks for quantum computing, data analysis and machine learning
+- ⚡ Fun fact: I prefer cold coffee ❄ ☕ because it keeps me awake and refreshed
 
 <!--
 **andrlupi/andrlupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
