@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm andrlupi
+  Thing's about me
 
-- 🖖 I'm andrlupi, a physics student
+- 🖖 I'm a physics student
 - 🔭 I’m currently working on exploring my skills in scientific computing
 - 🌱 I’m currently learning quantum computing, data science and AI
 - ⚡ Fun fact: I prefer cold coffee ❄ ☕ 
