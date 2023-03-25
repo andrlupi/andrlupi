@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on exploring my skills in scientific computing and lab IoT
 - 🌱 I’m currently learning how to use various tools and frameworks for quantum computing, data analysis and machine learning
 - ⚡ Fun fact: I prefer cold coffee ❄ ☕ because it keeps me awake and refreshed
+- 📚 I like to keep track of what I learn by building repositories of the problems solutions from the books and courses I'm studying. It helps me review and reinforce the concepts and skills I acquire. It's a fun and rewarding way to learn new things and improve myself.
 
 <!--
 **andrlupi/andrlupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
