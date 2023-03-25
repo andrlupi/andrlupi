@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 ###- ⚡ Fun fact: I prefer cold coffee ❄ ☕ 
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrlupi&show_icons=true&theme=dracula)
