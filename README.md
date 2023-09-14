@@ -9,17 +9,17 @@
 - 📡 Wanna build a mini radiotelescope
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=andrlupi&theme=onedark&row=1&no-frame=true&no-bg=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=dracula)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrlupi&show_icons=true&theme=dracula&layout=donut)
 
 <!--
 **andrlupi/andrlupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=andrlupi&theme=onedark&row=1&no-frame=true&no-bg=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=dracula)
 ###- 👯 I’m looking to collaborate on ...
 ###- 🤔 I’m looking for help with ...
 ###- 💬 Ask me about ...
