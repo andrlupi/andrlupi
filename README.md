@@ -2,10 +2,11 @@
   #### Things about me
 
 - 🖖 I'm a physics student who loves to explore the mysteries of the universe
-- 🔭 I’m currently working on exploring my skills in scientific computing and lab IoT
-- 🌱 I’m currently learning how to use various tools and frameworks for quantum computing, data analysis and machine learning
+- 📔 I'm currently working on exploring my skills in scientific computing and lab IoT
+- 🔦 I'm an intern at the Brazilian Sincrotron Light Source
 - ⚡ Fun fact: I prefer cold coffee ❄ ☕ because it keeps me awake and refreshed
 - 📚 I like to keep track of what I learn by building repositories of the problems solutions from the books and courses I'm studying. It helps me review and reinforce the concepts and skills I acquire. It's a fun and rewarding way to learn new things and improve myself.
+- 📡 Wanna build
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrlupi&theme=onedark&row=1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
