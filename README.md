@@ -3,7 +3,7 @@
 
 - 🖖 I'm a physics student who loves to explore the mysteries of the universe
 - 📔 I'm currently working on exploring my skills in scientific computing and lab IoT
-- 🔦 I'm an intern at the Brazilian Sincrotron Light Source
+- 🔦 I'm a physics intern at the Brazilian Sincrotron Light Source
 - ⚡ Fun fact: I prefer cold coffee ❄ ☕ because it keeps me awake and refreshed
 - 📚 I like to keep track of what I learn by building repositories of the problems solutions from the books and courses I'm studying. It helps me review and reinforce the concepts and skills I acquire. It's a fun and rewarding way to learn new things and improve myself.
 - 📡 Wanna build a mini radiotelescope
