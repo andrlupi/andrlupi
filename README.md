@@ -20,6 +20,8 @@
   <img align="center" alt="andrlupi-julia" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
   <img align="center" alt="andrlupi-matlab" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align="center" alt="andrlupi-arduino" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="andrlupi-arduino" height="80" width="80" src="https://th.bing.com/th/id/R.905acfde07f6451be5e4ebd99e0351b2?rik=loPdBl0oRrghTA&riu=http%3a%2f%2fwolfram.com%2fhomepage%2fimg%2fcarousel-wolfram-language.png&ehk=zeWaRSCQx7J4XVQRCkzgZ%2b4%2bOVGJNL6DSSAIEeBhevM%3d&risl=&pid=ImgRaw&r=0" />
+  
 </div>
 <!--
 **andrlupi/andrlupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
