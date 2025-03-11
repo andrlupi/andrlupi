@@ -9,11 +9,10 @@
 - 📡 Wanna build a mini radiotelescope
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrlupi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="andrlupi-julia" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
   <img align="center" alt="andrlupi-jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
@@ -22,7 +21,7 @@
   <img align="center" alt="andrlupi-javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
           
-</div>
+</div>-->
 <!--
 **andrlupi/andrlupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--
