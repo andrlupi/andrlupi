@@ -79,10 +79,10 @@ I am a Physicist and Physical Engineer in training at **UNICAMP** (State Univers
 
 <div align="center">
   <a href="https://github.com/andrlupi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="André's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrlupi&show_icons=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=89dceb&hide_border=true&count_private=true&include_all_commits=true" alt="André's GitHub Stats" />
   </a>
   <a href="https://github.com/andrlupi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrlupi&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Most Used Languages" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrlupi&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&hide_border=true&layout=compact" alt="Most Used Languages" />
   </a>
 </div>
 
