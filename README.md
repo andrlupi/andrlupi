@@ -10,7 +10,6 @@
 [![Website](https://img.shields.io/badge/Website-andrlupi.github.io-89b4fa?style=flat-square&logo=astro&logoColor=white)](https://andrlupi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andre--lpianca-89dceb?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-lpianca)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9084--688X-a6e3a1?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9084-688X)
-[![Email](https://img.shields.io/badge/Email-andre--lpianca%40proton.me-cba6f7?style=flat-square&logo=protonmail&logoColor=white)](mailto:andre-lpianca@proton.me)
 [![Location](https://img.shields.io/badge/Location-Campinas%2C%20SP%20%7C%20Brazil-f38ba8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -22,7 +21,7 @@
 I am a Physicist and Physical Engineer in training at **UNICAMP** (State University of Campinas, Brazil), combining fundamental physics with computational modeling and scientific instrumentation.
 
 - ❄️ **Cryogenic & Thermal Modeling:** Developed lumped-mass thermal network models and thermo-mechanical co-design in **Julia** for the sub-10 K nano-station at the **EMA beamline of Sirius / LNLS (CNPEM)**.
-- 🩺 **Verification & Validation (V&V):** Fellow at **Instituto Hardware BR**, transitioning from quality processes toward hardware **Verification & Validation (V&V)** and applications engineering within medical devices.
+- 🩺 **Verification & Validation (V&V):** Fellow at **Instituto Hardware BR**, transitioning from Quality & Processes toward hardware Verification & Validation (V&V) and applications engineering.
 - 💻 **Scientific Computing:** Specialized in numerical methods, non-linear solvers, Kirchhoff transformations, and simulations.
 - ⚡ **Fun fact:** I prefer cold coffee ❄️☕ — it keeps me awake and refreshed during long simulation runs.
 - 📚 **Continuous Learning:** I like to keep track of what I learn by building repositories with solutions and implementations from physics, mathematics, and computation coursework.
