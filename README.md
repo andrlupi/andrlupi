@@ -1,25 +1,93 @@
-### Hi there 👋 I'm andrlupi
-  #### Things about me
+<div align="center">
 
-- 🖖 I'm a physics student who loves to explore the mysteries of the universe
-- 📔 I'm currently working on exploring my skills in scientific computing and lab IoT
-- 🔦 Right now working on quantum sensing
-- ⚡ Fun fact: I prefer cold coffee ❄ ☕ because it keeps me awake and refreshed
-- 📚 I like to keep track of what I learn by building repositories of the problems solutions from the books and courses I'm studying. It helps me review and reinforce the concepts and skills I acquire. It's a fun and rewarding way to learn new things and improve myself.
-- 📡 Wanna build a mini radiotelescope
+# André Luiz Pianca
+### Physicist & Physical Engineer (UNICAMP)
 
+<p align="center">
+  <b>Scientific Computing &bull; Thermal &amp; Cryogenic Modelling &bull; V&amp;V &bull; Deep-Tech Instrumentation</b>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrlupi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Website](https://img.shields.io/badge/Website-andrlupi.github.io-89b4fa?style=flat-square&logo=astro&logoColor=white)](https://andrlupi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andre--lpianca-89dceb?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-lpianca)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9084--688X-a6e3a1?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9084-688X)
+[![Email](https://img.shields.io/badge/Email-andre--lpianca%40proton.me-cba6f7?style=flat-square&logo=protonmail&logoColor=white)](mailto:andre-lpianca@proton.me)
+[![Location](https://img.shields.io/badge/Location-Campinas%2C%20SP%20%7C%20Brazil-f38ba8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="andrlupi-julia" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
-  <img align="center" alt="andrlupi-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img  align="center" alt="andrlupi-Gleam" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gleam/gleam-original.svg" />
-     
 </div>
 
+---
 
+### 🔬 About Me
 
+I am a Physicist and Physical Engineer in training at **UNICAMP** (State University of Campinas, Brazil), combining fundamental physics with computational modeling and scientific instrumentation.
 
+- ❄️ **Cryogenic & Thermal Modeling:** Developed lumped-mass thermal network models and thermo-mechanical co-design in **Julia** for the sub-10 K nano-station at the **EMA beamline of Sirius / LNLS (CNPEM)**.
+- 🩺 **Verification & Validation (V&V):** Fellow at **Instituto Hardware BR**, transitioning from quality processes toward hardware **Verification & Validation (V&V)** and applications engineering within medical devices.
+- 💻 **Scientific Computing:** Specialized in numerical methods, non-linear solvers, Kirchhoff transformations, and simulations.
+- ⚡ **Fun fact:** I prefer cold coffee ❄️☕ — it keeps me awake and refreshed during long simulation runs.
+- 📚 **Continuous Learning:** I like to keep track of what I learn by building repositories with solutions and implementations from physics, mathematics, and computation coursework.
+
+---
+
+### 🚀 Highlighted Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">❄️ EMA Cryo-Modelling</h3>
+      <p align="center">
+        <b>Lumped-mass thermal network &amp; thermo-mechanical co-design for Sirius / LNLS</b>
+      </p>
+      <p>Modular Julia 1.10+ package for thermal modeling of the EMA beamline cryogenic nano-station (&lt; 10 K), simulating non-linear heat capacities, thermal interface conductances, and structural constraints.</p>
+      <p align="center">
+        <a href="https://github.com/andrlupi/EMA-C_LM-Cryo-Modelling"><b>View Repository &rarr;</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Interactive Portfolio</h3>
+      <p align="center">
+        <b>Astro 5 &bull; Tailwind CSS &bull; Catppuccin Mocha</b>
+      </p>
+      <p>Zero-JS static portfolio featuring typed Astro Content Collections (Zod), an interactive SVG cryogenic thermal interface simulator, and academic/professional timeline.</p>
+      <p align="center">
+        <a href="https://andrlupi.github.io"><b>Explore Live Site &rarr;</b></a> &bull; 
+        <a href="https://github.com/andrlupi/portfolio"><b>Repository &rarr;</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Skills & Technologies
+
+<div align="center">
+
+| Domain | Technologies &amp; Tools |
+| :--- | :--- |
+| **Scientific Computing & Languages** | `Julia` &bull; `Python` (NumPy, SciPy, Matplotlib) &bull; `C` &bull; `MATLAB` |
+| **Engineering, CAD & Simulation** | `Autodesk Fusion 360` &bull; `Autodesk Inventor` &bull; `Simulink / Simscape` &bull; `Ansys (FEA)` |
+| **Applied Physics & Instrumentation** | `Cryogenics (< 10 K)` &bull; `Vacuum Systems` &bull; `Lumped-Mass Thermal Networks` &bull; `Non-Linear Solvers` &bull; `Data Acquisition (DAQ)` |
+| **Quality & Engineering Processes** | `Verification & Validation (V&V)` &bull; `Medical Devices Compliance` &bull; `Process Standardization` |
+| **Web & Developer Tooling** | `Git` &bull; `Linux` &bull; `Astro` &bull; `Tailwind CSS` &bull; `Markdown / LaTeX (KaTeX)` |
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Languages
+
+<div align="center">
+  <a href="https://github.com/andrlupi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrlupi&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="André's GitHub Stats" />
+  </a>
+  <a href="https://github.com/andrlupi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrlupi&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Most Used Languages" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ in Catppuccin Mocha &bull; <a href="https://andrlupi.github.io">andrlupi.github.io</a></sub>
+</div>
