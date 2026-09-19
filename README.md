@@ -10,7 +10,6 @@
 [![Website](https://img.shields.io/badge/Website-andrlupi.github.io-89b4fa?style=flat-square&logo=astro&logoColor=white)](https://andrlupi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andre--lpianca-89dceb?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-lpianca)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9084--688X-a6e3a1?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9084-688X)
-[![Email](https://img.shields.io/badge/Email-andre--lpianca%40proton.me-cba6f7?style=flat-square&logo=protonmail&logoColor=white)](mailto:andre-lpianca@proton.me)
 [![Location](https://img.shields.io/badge/Location-Campinas%2C%20SP%20%7C%20Brazil-f38ba8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
