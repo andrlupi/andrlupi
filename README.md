@@ -18,10 +18,10 @@
 
 ### 🔬 About Me
 
-I am a (1 and Engineering)Physicist in training at **UNICAMP** (State University of Campinas, Brazil), combining fundamental physics with computational modeling and scientific instrumentation.
+I am a Physicist and Physical Engineer in training at **UNICAMP** (State University of Campinas, Brazil), combining fundamental physics with computational modeling and scientific instrumentation.
 
 - 🔎 **Verification & Validation (V&V):** Fellow at **Instituto Hardware BR**, transitioning from Quality & Processes toward hardware Verification & Validation (V&V) and applications engineering.
-- ❄️ **Cryogenic & Thermal Modeling:** Developed lumped-mass thermal network models and thermo-mechanical co-design in **Julia** for the sub-10 K nano-station at the **EMA beamline of Sirius / LNLS (CNPEM)**.
+- ❄️ **Cryogenic & Thermal Modeling:** Conceived during my research internship at **Sirius / LNLS (CNPEM)** and evolved into an open-source **Julia** framework (**EMA-C**), modeling lumped-mass thermal networks, exact Kirchhoff conduction, and thermo-mechanical co-design for the sub-10 K nano-station.
 - 💻 **Scientific Computing:** Specialized in numerical methods, non-linear solvers, Kirchhoff transformations, and simulations.
 - ⚡ **Fun fact:** I prefer cold coffee ❄️☕ — it keeps me awake and refreshed during long simulation runs.
 - 📚 **Continuous Learning:** I like to keep track of what I learn by building repositories with solutions and implementations from physics, mathematics, and computation coursework.
@@ -37,7 +37,7 @@ I am a (1 and Engineering)Physicist in training at **UNICAMP** (State University
       <p align="center">
         <b>Lumped-mass thermal network &amp; thermo-mechanical co-design for Sirius / LNLS</b>
       </p>
-      <p>Modular Julia 1.10+ package for thermal modeling of the EMA beamline cryogenic nano-station (&lt; 10 K), simulating non-linear heat capacities, thermal interface conductances, and structural constraints.</p>
+      <p>Evolving from research conducted during my internship at CNPEM / Sirius, this modular Julia 1.10+ package features exact Kirchhoff non-linear thermal conduction, L-stable Rosenbrock transient cooldown solvers, and thermo-mechanical co-design for the EMA beamline cryogenic nano-station (&lt; 10 K).</p>
       <p align="center">
         <a href="https://github.com/andrlupi/EMA-C_LM-Cryo-Modelling"><b>View Repository &rarr;</b></a>
       </p>
